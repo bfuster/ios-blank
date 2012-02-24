@@ -1,0 +1,69 @@
+// !$*UTF8*$!
+{
+	5D16331514F563B1004F8DB0 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = B71D2B0514F7E8CC009D40F4 /* ios-blank */;
+		activeTarget = 5D16331D14F563B1004F8DB0 /* ios-blank */;
+		codeSenseManager = B71D2B2914F7E8EF009D40F4 /* Code sense */;
+		executables = (
+			B71D2B0514F7E8CC009D40F4 /* ios-blank */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 351791308;
+			PBXWorkspaceStateSaveDate = 351791308;
+		};
+		sourceControlManager = B71D2B2814F7E8EF009D40F4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	5D16331D14F563B1004F8DB0 /* ios-blank */ = {
+		activeExec = 0;
+		executables = (
+			B71D2B0514F7E8CC009D40F4 /* ios-blank */,
+		);
+	};
+	5D16334C14F563B2004F8DB0 /* ios-blankTests */ = {
+		activeExec = 0;
+	};
+	B71D2B0514F7E8CC009D40F4 /* ios-blank */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "ios-blank";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	B71D2B2814F7E8EF009D40F4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B71D2B2914F7E8EF009D40F4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
